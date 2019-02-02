@@ -1,2 +1,1 @@
-# LudicGams
-juegos mentales
+# myapp
